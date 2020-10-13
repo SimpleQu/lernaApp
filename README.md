@@ -1,0 +1,2 @@
+# lernaApp
+monorepo
